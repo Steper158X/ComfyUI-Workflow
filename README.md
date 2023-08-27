@@ -10,5 +10,10 @@ Work Flow นี้ผมทำเพื่อสำหรับคนที่�
 - [ ] ComfyUI สร้างภาพที่มีขนาดใหญ่
 - [ ] Control Net
 
+### ภาพ
+SDXL 1.0 Upscale (LandScape) :
+
+![](https://raw.githubusercontent.com/Steper158X/ComfyUI-Workflow/main/SDXL%201.0/Preview%20upscale%20(For%20Landscape).jpg)
+
 ### ติดตามได้ที่
 `Facebook` : <https://www.facebook.com/steper158x>
